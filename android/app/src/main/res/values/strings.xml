@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">PREPORA</string>
+    <string name="title_activity_main">PREPORA</string>
+    <string name="package_name">com.alpha.prepora</string>
+    <string name="custom_url_scheme">com.alpha.prepora</string>
+</resources>
